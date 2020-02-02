@@ -24,6 +24,7 @@
     "moment": "^2.10.6",
     "path": "^0.11.14",
     "xml2json": "^0.8.1",
-    "xmlbuilder": "^2.6.4"
+    "xmlbuilder": "^2.6.4",
+    "requestretry": "^4.1.0"
   }
 }
